@@ -1,2 +1,19 @@
-<img src="https://i.postimg.cc/VLtCkvHT/fotor-20250305151925.png" alt="Logo Globbal">
-Welcome to the most interesting place - Github! But we're not on Github, but on another topic... did you know that Globbal ST is developing a new T module? And the fact that the company has developed a telegram channel for Misha's blog? And here you will find out!
+![Logo](https://i.postimg.cc/VLtCkvHT/fotor-20250305151925.png)
+# **Добро пожаловать в офис Globbal.**
+## Главный офис компании Globbal ST.
+От сюда вы узнаете о компании Globbal ST.
+___
+## О офисе ##
+Сам та этот офис хороший. Делают красивые сайты, устроились на Github. Но самое главное - у них нет сайта. Можете помочь создать сайт на конструкторе сайтов Tilda, или с помощью *коддинга*.
+## Проекты компании Globbal ST
+**T** - модуль для Python. Предназначен для рисунков таких как дыры, и солнце из звезды.
+
+**Блог Миши** - это Telegram-канал и RUTUBE канал. Мы снимаем просто так, ну или для вас. ***Тема*** Minecraft. *https://t.me/mishaztd*
+>**Справка:** канал "Блог Миши" называется в Telegram (@mishaztd), а в RUTUBE называется "Миша Minecraft"
+>>**Справка:** Раньше канал назывался "Миша, зачем ты это делаешь?!" но адрес до этого был 'mishaztd'. Мы решили не менять а оставить на память. 
+
+**Zeen (быв. GlobbalOS)** - это как мы говорим "операционая система будущего". Да но её пока что нет...
+
+**.github** - это *системный репозиторий*.
+
+**BothGPT 2.0** - это ИИ который реально существует, но он умеет только рисовать... Чтобы нарисовать скажи: нарисуй [фигура]. На данный момент BothGPT стал популярным проектом Globbal. 
